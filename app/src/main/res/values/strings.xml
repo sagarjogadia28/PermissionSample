@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PermissionSample</string>
+    <string name="go_to_fragment">Go to Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="multiple">Multiple</string>
 </resources>
